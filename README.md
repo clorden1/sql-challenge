@@ -9,4 +9,6 @@ A .sql file containing the table schema used in the database is located in Emplo
 A .sql file containing queries neccessary for data analysis is located in EmployeeSQL/.sql_files/queries.sql
 
 ### References
-- NA
+- Documentation for extracting year from a date column: https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-EXTRACT
+
+- Website Used to generate ERD: https://www.quickdatabasediagrams.com/
